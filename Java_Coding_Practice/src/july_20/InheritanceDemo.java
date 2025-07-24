@@ -20,7 +20,7 @@ public class InheritanceDemo {
 
 	public static void main(String[] args) {
 	
-		 A objA = new A();       // object creation for class A
+		 A objA = new A();       
 		 System.out.println(objA.a); 
 		 objA.display();
 		 
