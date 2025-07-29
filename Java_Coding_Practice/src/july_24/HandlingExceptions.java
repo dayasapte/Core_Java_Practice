@@ -27,8 +27,7 @@ public class HandlingExceptions {
 
 		  
 		
-		
-	}
+		  }
 		  
 		  catch(ArithmeticException e) {
 			  System.out.println("ArithmeticException Catch Block");
